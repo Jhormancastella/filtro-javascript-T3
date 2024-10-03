@@ -1,0 +1,125 @@
+{
+ "heroes": [
+    {  
+        "img":"https://img.posterstore.com/zoom/wb0057-8superman-cartoon50x70.jpg",
+        "superheroe":"superman",
+        "editoral":"DCComic",
+        "identidad":"Clark Kent.",
+        "primeraparicion":"Action Comics",
+        "fechadeaparicion":" junio de 1938 y publicado el 18 de abril de 1938",
+        "descripcion":"Es Clark Kent, un hombre apacible y sin pretensiones, que se convierte secretamente en el Hombre de Acero cuando el mundo corre peligro",
+        "habilidad":"Súper Fuerza Súper Velocidad piel blindad vision de calor aliento frio "
+    },
+    {   
+        "img":"https://frumble.co.uk/cdn/shop/products/dc_comics_ii_batman_panel_in_blue_460x@2x.jpg?v=1573943649",
+        "superheroe":"Bataman",
+        "editoral":"DCComic",
+        "identidad":"Bruce Wayne.",
+        "primeraparicion":" Detective Comics N.º 27",
+        "fechadeaparicion":" 30 de marzo de 1939.",
+        "descripcion":"Batman es la identidad secreta de Bruce Wayne, un empresario multimillonario, galán y filántropo. Presenció el asesinato de sus padres cuando era niño lo marcó profundamente y lo llevó a entrenarse en la perfección física e intelectual para ponerse un disfraz de murciélago con el fin de combatir el crimen.",
+        "habilidad":"como detective. Intelecto nivel genio.​ Brillante estratega y acróbata experto. Dominio de artes marciales y técnicas de sigilo e intimidación. Escapismo. Uso de equipamiento, dispositivos y armamento de alta tecnología."
+    },
+    {
+        "img":"https://img.posterstore.com/zoom/wb0059-8wonderwoman-cartoon50x70.jpg?_gl=1*1wp7iij*_ga*NTk4OTg2MTM4LjE3Mjc5ODc0NjY.*_ga_7KPK321211*MTcyNzk4NzQ2NC4xLjEuMTcyNzk4NzQ2NC4wLjAuMA..*_gcl_au*NTg0MTgzNDM1LjE3Mjc5ODc0NjY.",
+        "superheroe":"Wonder Woman ",
+        "editoral":"DCComic",
+        "identidad":"Diana Prince",
+        "primeraparicion":" All Star Comics #8 ",
+        "fechadeaparicion":"diciembre de 1941",
+        "descripcion":"Diana, hija de dioses y princesa de las amazonas, nunca ha salido de su isla. Un día, en el contexto de la Primera Guerra Mundial, un piloto americano se estrella en su isla y Diana salva su vida; el piloto le explica que se está desarrollando una gran guerra que puede devastar el mundo, y Diana parte a la batalla.",
+        "habilidad":"Súper Fuerza Súper Velocidad Inmortalidad Factor de Curación Reflejos Resistencia Vuelo Habilidad de lucha altamente desarrollada Experta en combate cuerpo a cuerpo Poder hablar con los animales y en cualquier idioma de alguna persona que se encuentre"
+    },
+    {
+        "img":"https://img.posterstore.com/zoom/wb0146-8theflash-retro50x70.jpg",
+        "superheroe":"flash",
+        "editoral":"DCComic",
+        "identidad":" Barry Allen",
+        "primeraparicion":"Flash Comics #1",
+        "fechadeaparicion":"enero de 1940",
+        "descripcion":"Barry Allen (Flash) usa sus superpoderes para viajar en el tiempo y salvar la vida de su madre, pero sin saberlo altera el futuro y queda atrapado en una realidad en la que el general Zod ha regresado y amenaza con la aniquilación, pero en la que no hay superhéroes",
+        "habilidad":"super velocidad "
+    },
+    {
+        "img":"https://images.tcdn.com.br/img/img_prod/460977/ima_dc_comics_aquaman_7521_1_20201211174037.jpg",
+        "superheroe":"Aquaman",
+        "editoral":"DCComic",
+        "identidad":"Arthur Curry",
+        "primeraparicion":" More Fun Comics #73",
+        "fechadeaparicion":"noviembre de 1941",
+        "descripcion":"Aquaman es el gobernante telepático de la Atlántida y de los océanos de la Tierra, un Atlante con increíble fuerza y ​​velocidad, así como la capacidad de ordenar toda la vida marina. Su fisiología única le permite sobrevivir en tierra y en las grandes profundidades del océano de presión y temperatura.",
+        "habilidad":"Adaptación biológica de un atlante Naturaleza anfibia Visión mejorada Audición mejorada Olfato mejorado Fuerza sobrehumana Resistencia sobrehumana Durabilidad sobrehumana"
+    },
+    {
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/WhizComicsNo22.jpg/220px-WhizComicsNo22.jpg",
+        "superheroe":"Shazam",
+        "editoral":"DCComic",
+        "identidad":"Billy Batson",
+        "primeraparicion":"Whizz Comics 2 ",
+        "fechadeaparicion":"febrero de 1940",
+        "descripcion":"Originalmente, era un huerfano llamado Billy Baston, quien fue elegido por el mago Shazam para ser el campeon del bien. Shazam le dio a Billy con el poder de seis figuras legendarias griegas, y cuando habló el nombre del asistente, se convirtió en un superhéroe adulto autorizado por seis figuras legendarias griegas.",
+        "habilidad":"Sabiduría de Salomón Fuerza de Hércules: Resistencia de Atlas: Poder de Zeus: Coraje de Aquiles: Velocidad de Mercurio:  "
+    },
+    {
+        "img":"https://i.pinimg.com/736x/c3/f9/ef/c3f9ef3ad82d74f74586269b25d12fdb.jpg",
+        "superheroe":"iron man",
+        "editoral":"Marvel Comic",
+        "identidad":"Tony Star",
+        "primeraparicion":" Tales of Suspense #39",
+        "fechadeaparicion":"marzo de 1963",
+        "descripcion":"Genio multimillonario inventor, industrial y director ejecutivo de Industrias Stark Tony Stark fue herido de muerte en una zona de guerra en Afganistán",
+        "habilidad":"Superfuerza, durabilidad y resistencia por armadura. Vuelo supersónico. Repulsores de energía y misiles de proyección. Regenerativo soporte vital."
+    },
+    {
+        "img":"https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/3228710/6215072/XPE160191__49750.1709700068.jpg?c=2",
+        "superheroe":"hul ",
+        "editoral":"Marvel Comic",
+        "identidad":"Bruce Banner",
+        "primeraparicion":"The Incredible Hulk #1 ",
+        "fechadeaparicion":" mayo de 1962",
+        "descripcion":"Hulk fue Bruce Banner, un científico que estuvo expuesto a cantidades extremas de radiación gamma que alteró la estructura de su ADN y provocó que se convirtiera en un monstruo gigante de increíble poder cada vez que se enfada.",
+        "habilidad":"Enorme fuerza y vigor superhumanos; reisitencia a las heridas; habilidad de saltar varios kilómetros de un solo impulso."
+    },
+    {
+        "img":"https://www.shopknuckleheads.com/cdn/shop/products/29920MV_1200x1680.jpg?v=1648744917",
+        "superheroe":"thor",
+        "editoral":"Marvel Comic",
+        "identidad":"Thor Odinson",
+        "primeraparicion":"Journey into Mystery # 85 ",
+        "fechadeaparicion":"(agosto de 1962",
+        "descripcion":" Thor como un héroe que lucha contra enemigos cósmicos, sino que también exploran la rica mitología que rodea a Asgard y sus habitantes.",
+        "habilidad":"Fuerza sobrehumana, resistencia, durabilidad, velocidad, agilidad, reflejos, curación, longevidad y sentidos. Manipulación del clima y la materia. Manipulación de energía."
+    },
+    {
+        "img":"https://images.cdn2.buscalibre.com/fit-in/360x360/bb/ae/bbae5fdf15b20014bb7b9d6d2495ee11.jpg",
+        "superheroe":"capitan america",
+        "editoral":"Marvel Comic",
+        "identidad":"Steve Rogers",
+        "primeraparicion":" Captain America Comics #1",
+        "fechadeaparicion":"marzo de 1941",
+        "descripcion":"Steve Rogers, débil y enclenque, quiere ser soldado y luchar por su país, pero siempre es rechazado. Movido por sus súplicas, el general Chester Phillips le ofrece la oportunidad de participar en un experimento especial que lo convertirá en un supersoldado. Tras un intensivo programa de entrenamiento físico y táctico, recibe su primera misión como Capitán América.",
+        "habilidad":"Fuerza, velocidad, agilidad, resistencia durabilidad, aguante, coordinación, equilibrio y reflejos sobrehumanos. Regeneración y factor curativo acelerado. Inmune a gases y enfermedades."
+    },
+    {
+        "img":"https://www.comicquestcol.com/wp-content/uploads/2018/10/4.-ANT-MAN-A-TODOS-LES-GUSTAN-LOS-EQUIPOS.jpg",
+        "superheroe":"ANT-MAN",
+        "editoral":"Marvel Comic",
+        "identidad":"Henry 'Hank' Pym",
+        "primeraparicion":"Tales to Astonish",
+        "fechadeaparicion":"enero de 1962",
+        "descripcion":"En 1989, Henry Pym dimite de S.H.I.E.L.D. después de descubrir que Howard Stark trató de replicar su propia tecnología del Traje de Ant-Man, la cual Pym",
+        "habilidad":"ntelecto de nivel de genio. Mantiene la fuerza del tamaño normal en estado encogido. Fuerza sobrehumana, resistencia, durabilidad y masa en forma gigante."
+    },
+    {
+        "img":"",
+        "superheroe":"Deadpool",
+        "editoral":"Marvel Comic",
+        "identidad":"Wade Winston Wilson",
+        "primeraparicion":"New Mutants (vol. 1) #98",
+        "fechadeaparicion":"en 1991",
+        "descripcion":"Deadpool actúa como miembro del equipo de ataque militar del Profesor Thorton, conocido como Team X (junto a Lady Deathstrike, Omega Red, y Sabretooth) en el Programa Arma X, tratando de capturar a Wolverine y Hulk con el objetivo de lavarles el cerebro y convertirlos en armas definitivas.",
+        "habilidad":"Fuerza sobrehumana: Deadpool posee una gran fuerza, aunque no de tipo antinatural. · Resistencia sobrehumana: La musculatura de Deadpool genera menos"
+    }
+ ]
+    
+}
