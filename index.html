@@ -1,19 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>super Heroes</title>
+    <title>Superhéroes</title>
     <link rel="stylesheet" href="/css/style.css">
-    <script type="module" src="/js/main.js" defer></script>
+    <script type="module" src="/js/slec.js" defer></script>
 </head>
 <body>
-    <div id="hero-container">
-        <button id="anterior"><img class="anterior" src="/img/flecha.png" alt=""></button>
-        <div id="heroesContainer"></div>
-        <button id="siguiente"><img src="/img/flecha.png" alt=""></button>
+    <div class="selector">
+        <button id="dc-comics">DC comics</button>
+        <a class="vs" href="/selector.html"><button>ir a vs</button></a>
+        <button id="marvel-comics">Marvel comics</button>
     </div>
-    
-      <button id="Button">Cargar Héroes</button>
+    <div id="hero-container"></div>
 </body>
 </html>

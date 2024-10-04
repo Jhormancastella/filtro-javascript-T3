@@ -1,0 +1,65 @@
+{
+ "heroes": [
+    {
+        "img":"https://i.pinimg.com/736x/c3/f9/ef/c3f9ef3ad82d74f74586269b25d12fdb.jpg",
+        "superheroe":"iron man",
+        "editoral":"Marvel Comic",
+        "identidad":"Tony Star",
+        "primeraparicion":" Tales of Suspense #39",
+        "fechadeaparicion":"marzo de 1963",
+        "descripcion":"Genio multimillonario inventor, industrial y director ejecutivo de Industrias Stark Tony Stark fue herido de muerte en una zona de guerra en Afganistán",
+        "habilidad":"Superfuerza, durabilidad y resistencia por armadura. Vuelo supersónico. Repulsores de energía y misiles de proyección. Regenerativo soporte vital."
+    },
+    {
+        "img":"https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/3228710/6215072/XPE160191__49750.1709700068.jpg?c=2",
+        "superheroe":"hulk",
+        "editoral":"Marvel Comic",
+        "identidad":"Bruce Banner",
+        "primeraparicion":"The Incredible Hulk #1 ",
+        "fechadeaparicion":" mayo de 1962",
+        "descripcion":"Hulk fue Bruce Banner, un científico que estuvo expuesto a cantidades extremas de radiación gamma que alteró la estructura de su ADN y provocó que se convirtiera en un monstruo gigante de increíble poder cada vez que se enfada.",
+        "habilidad":"Enorme fuerza y vigor superhumanos; reisitencia a las heridas; habilidad de saltar varios kilómetros de un solo impulso."
+    },
+    {
+        "img":"https://www.shopknuckleheads.com/cdn/shop/products/29920MV_1200x1680.jpg?v=1648744917",
+        "superheroe":"thor",
+        "editoral":"Marvel Comic",
+        "identidad":"Thor Odinson",
+        "primeraparicion":"Journey into Mystery # 85 ",
+        "fechadeaparicion":"(agosto de 1962",
+        "descripcion":" Thor como un héroe que lucha contra enemigos cósmicos, sino que también exploran la rica mitología que rodea a Asgard y sus habitantes.",
+        "habilidad":"Fuerza sobrehumana, resistencia, durabilidad, velocidad, agilidad, reflejos, curación, longevidad y sentidos. Manipulación del clima y la materia. Manipulación de energía."
+    },
+    {
+        "img":"https://images.cdn2.buscalibre.com/fit-in/360x360/bb/ae/bbae5fdf15b20014bb7b9d6d2495ee11.jpg",
+        "superheroe":"capitan america",
+        "editoral":"Marvel Comic",
+        "identidad":"Steve Rogers",
+        "primeraparicion":" Captain America Comics #1",
+        "fechadeaparicion":"marzo de 1941",
+        "descripcion":"Steve Rogers, débil y enclenque, quiere ser soldado y luchar por su país, pero siempre es rechazado. Movido por sus súplicas, el general Chester Phillips le ofrece la oportunidad de participar en un experimento especial que lo convertirá en un supersoldado. Tras un intensivo programa de entrenamiento físico y táctico, recibe su primera misión como Capitán América.",
+        "habilidad":"Fuerza, velocidad, agilidad, resistencia durabilidad, aguante, coordinación, equilibrio y reflejos sobrehumanos. Regeneración y factor curativo acelerado. Inmune a gases y enfermedades."
+    },
+    {
+        "img":"https://www.comicquestcol.com/wp-content/uploads/2018/10/4.-ANT-MAN-A-TODOS-LES-GUSTAN-LOS-EQUIPOS.jpg",
+        "superheroe":"ANT-MAN",
+        "editoral":"Marvel Comic",
+        "identidad":"Henry 'Hank' Pym",
+        "primeraparicion":"Tales to Astonish",
+        "fechadeaparicion":"enero de 1962",
+        "descripcion":"En 1989, Henry Pym dimite de S.H.I.E.L.D. después de descubrir que Howard Stark trató de replicar su propia tecnología del Traje de Ant-Man, la cual Pym",
+        "habilidad":"ntelecto de nivel de genio. Mantiene la fuerza del tamaño normal en estado encogido. Fuerza sobrehumana, resistencia, durabilidad y masa en forma gigante."
+    },
+    {
+        "img":"https://images.cdn3.buscalibre.com/fit-in/360x360/7f/13/7f13ad16c1861e7cb5cdc9d7634f86fb.jpg",
+        "superheroe":"Deadpool",
+        "editoral":"Marvel Comic",
+        "identidad":"Wade Winston Wilson",
+        "primeraparicion":"New Mutants (vol. 1) #98",
+        "fechadeaparicion":"en 1991",
+        "descripcion":"Deadpool actúa como miembro del equipo de ataque militar del Profesor Thorton, conocido como Team X (junto a Lady Deathstrike, Omega Red, y Sabretooth) en el Programa Arma X, tratando de capturar a Wolverine y Hulk con el objetivo de lavarles el cerebro y convertirlos en armas definitivas.",
+        "habilidad":"Fuerza sobrehumana: Deadpool posee una gran fuerza, aunque no de tipo antinatural. · Resistencia sobrehumana: La musculatura de Deadpool genera menos"
+    }
+ ]
+    
+}

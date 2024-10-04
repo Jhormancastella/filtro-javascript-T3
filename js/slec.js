@@ -34,15 +34,14 @@ class HeroDC extends HTMLElement {
       shadowRoot.querySelector(".hero-info p:nth-child(2)").innerHTML = `<strong>Identidad:</strong> ${hero.identidad}`;
       shadowRoot.querySelector(".hero-info p:nth-child(3)").innerHTML = `<strong>Primera aparición:</strong> ${hero.primeraparicion} (${hero.fechadeaparicion})`;
       shadowRoot.querySelector(".hero-info p:nth-child(4)").innerHTML = `<strong>Editorial:</strong> ${hero.editoral}`;
-    //   shadowRoot.querySelector(".hero-info p:nth-child(5)").innerHTML = `<strong>Descripción:</strong> ${hero.descripcion}`;
-    //   shadowRoot.querySelector(".hero-info p:nth-child(6)").innerHTML = `<strong>Habilidades:</strong> ${hero.habilidad}`;
+      shadowRoot.querySelector(".hero-info p:nth-child(5)").innerHTML = `<strong>Descripción:</strong> ${hero.descripcion}`;
+      shadowRoot.querySelector(".hero-info p:nth-child(6)").innerHTML = `<strong>Habilidades:</strong> ${hero.habilidad}`;
     }
   
     render() {
       this.shadowRoot.innerHTML = `
         <style>
           .hero {
-             border-radius: 7%;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -52,7 +51,7 @@ class HeroDC extends HTMLElement {
             flex-direction: column;
             align-items: center;
              box-shadow: 0px 0px 10px white;
-           background: rgba(0, 140, 255, 0.623);
+            background: rgb(0, 153, 255);
           }
           h2 {
             color: white;
@@ -142,22 +141,21 @@ class HeroDC extends HTMLElement {
       shadowRoot.querySelector(".hero-info p:nth-child(2)").innerHTML = `<strong>Identidad:</strong> ${hero.identidad}`;
       shadowRoot.querySelector(".hero-info p:nth-child(3)").innerHTML = `<strong>Primera aparición:</strong> ${hero.primeraparicion} (${hero.fechadeaparicion})`;
       shadowRoot.querySelector(".hero-info p:nth-child(4)").innerHTML = `<strong>Editorial:</strong> ${hero.editoral}`;
-    //   shadowRoot.querySelector(".hero-info p:nth-child(5)").innerHTML = `<strong>Descripción:</strong> ${hero.descripcion}`;
-    //   shadowRoot.querySelector(".hero-info p:nth-child(6)").innerHTML = `<strong>Habilidades:</strong> ${hero.habilidad}`;
+      shadowRoot.querySelector(".hero-info p:nth-child(5)").innerHTML = `<strong>Descripción:</strong> ${hero.descripcion}`;
+      shadowRoot.querySelector(".hero-info p:nth-child(6)").innerHTML = `<strong>Habilidades:</strong> ${hero.habilidad}`;
     }
   
     render() {
       this.shadowRoot.innerHTML = `
         <style>
           .hero {
-            border-radius: 7%;
             padding:2em;
             width:250px;
             display: flex;
             flex-direction: column;
             align-items: center;
-            box-shadow: 0px 0px 10px white;
-            background: rgba(255, 0, 0, 0.623);
+              box-shadow: 0px 0px 10px white;
+                background: rgba(255, 0, 0, 0.623);
           }
           h2 {
             color: white;
@@ -209,4 +207,25 @@ class HeroDC extends HTMLElement {
   }
   
   customElements.define('hero-viewer-marvel', HeroMarvel);
+  
+// para el los eventos de click para selecionar cada json y mostarlo en pantlla 
+
+document.addEventListener('DOMContentLoaded', () => {
+    const dcButton = document.getElementById('dc-comics');
+    const marvelButton = document.getElementById('marvel-comics');
+    const heroContainer = document.getElementById('hero-container');
+ 
+    dcButton.addEventListener('click', () => {
+      heroContainer.innerHTML = ''; // Limpiar el contenedor
+      const heroViewerDC = document.createElement('hero-viewer-dc');
+      heroContainer.appendChild(heroViewerDC);
+    });
+  
+
+    marvelButton.addEventListener('click', () => {
+      heroContainer.innerHTML = ''; // Limpiar el contenedor
+      const heroViewerMarvel = document.createElement('hero-viewer-marvel');
+      heroContainer.appendChild(heroViewerMarvel);
+    });
+  });
   
